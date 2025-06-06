@@ -1,1 +1,1 @@
-# semantically-enriched-link-prediction-dataset
+# semantically-enriched-link-prediction-datasets
