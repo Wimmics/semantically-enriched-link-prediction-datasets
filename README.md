@@ -57,7 +57,7 @@ The resulting dataset will be saved in the dataset folder, in a proper subsfolde
 For example, launching the following command in the repository root:
 
 ```
-python dataset-mask.py dataset_folder dataset_target signed_rate domained_rate ranged_rate
+python dataset-mask.py . NELL995+ 10 30 10
 ```
 
 Generates the dataset that is in [folder NELL995+_10_30_10](./NELL995+_10_30_10)
