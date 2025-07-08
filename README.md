@@ -15,7 +15,7 @@ This repository is affiliated to the [WIMMICS research team](https://www.inria.f
 
 ## Datasets
 
-Each of the datasets [DB100k+][./DB100k+], [YAGO3-10+](./YAGO3-10+), [NELL995+](./NELL995+) and [NELL995+_10_30_10](./NELL995+_10_30_10) contain the following files:
+Each of the datasets [DB100k+](./DB100k+), [YAGO3-10+](./YAGO3-10+), [NELL995+](./NELL995+) and [NELL995+_10_30_10](./NELL995+_10_30_10) contain the following files:
 
 * A notebook of creation of datasets, downloading the files from their related URIs and generates the datasets from scratch
 * A notebook of dataset analysis that provides key information about the dataset
@@ -64,6 +64,26 @@ Generates the dataset that is in [folder NELL995+_10_30_10](./NELL995+_10_30_10)
 
 # Key stats
 
-## Datasets semantic information
+### DB100k+
 
-## 
+|Split|# Fully signed triples|# Domain-only triples|# Range-only triples|# Unsigned triples|Total|
+|-----|----------------------|---------------------|--------------------|------------------|-----|
+|Train|41267|297209|62219|597572|196877|
+|Test|16437|3426|24909|5228|50000|
+|Valid|16517|3527|24827|5129|50000|
+
+### NELL-995+
+
+|Split|# Fully signed triples|# Domain-only triples|# Range-only triples|# Unsigned triples|Total|
+|-----|----------------------|---------------------|--------------------|------------------|-----|
+|Train|109800|0|0|39878|149678|
+|Test|3992|0|0|0|3992|
+|Valid|543|0|0|0|543|
+
+### YAGO3-10+
+
+|Split|# Fully signed triples|# Domain-only triples|# Range-only triples|# Unsigned triples|Total|
+|-----|----------------------|---------------------|--------------------|------------------|-----|
+|Train|1057339|0|0|597572|1079040|
+|Test|4886|114|0|0|5000|
+|Valid|4912|88|0|0|5000|
