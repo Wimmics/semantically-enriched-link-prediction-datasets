@@ -1,3 +1,7 @@
+[![semantically-enriched-link-prediction-datasets DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15834519-blue?logo=doi)](https://zenodo.org/records/15834519)
+[![semantically-enriched-link-prediction-datasets SWHID](https://archive.softwareheritage.org/badge/revision/ab0ac17f77ea5b28a9f55b0c8826bf3a7aeb62f1/)](https://archive.softwareheritage.org/browse/origin/directory/?branch=refs/tags/1.0&origin_url=https://github.com/Wimmics/semantically-enriched-link-prediction-datasets)
+
+
 # Introduction
 
 This repository contains:
